@@ -19,12 +19,24 @@ To contact me, you can email me at: marcelo.mvp2002@gmail.com.
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Mark-soni&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mark-soni)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Mark-soni)
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-soni&langs_count=8&theme=algolia&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-soni&langs_count=8&theme=algolia&layout=compact" alt="Top Langs"/>
-</div>
 
+|                                                                     Mark-soni Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|![Mark-soni github stats](https://github-readme-stats.vercel.app/api?username=Mark-soni&show_icons=true&theme=radical) |             | 
+| ![Mark-soni GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mark-soni&theme=algolia)                    | 
+    
+
+|                                                                                                      Mark-soni Stars                                                                                                       |                                                           Top Languages                                                           |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Mark-soni&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-soni&langs_count=8&theme=algolia&layout=compact) |
+
+
+
+
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
+</div>
 
 <!--icons and links-->
 <p align="center">
