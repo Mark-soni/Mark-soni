@@ -16,27 +16,13 @@ Outside of technology, I enjoy playing video games, listening to music, and read
 
 To contact me, you can email me at: marcelo.mvp2002@gmail.com.
 
-<div align="left" style="display:inline-block; width:48%;">
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-  <!-- Estadísticas generales de GitHub -->
-  [![Marcelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mark-soni&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mark-soni)
-
-</div>
-
-<div align="right" style="display:inline-block; width:48%;">
-
-  <!-- Racha de contribuciones en GitHub -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Mark-soni)
-
-</div>
-
-<div align="center" style="margin-top:20px;">
-
-  <!-- Estadísticas de los lenguajes más usados -->
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-soni&langs_count=8&theme=algolia&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-soni&langs_count=8&theme=algolia&layout=compact" alt="Top Langs" width="350" />
-  </a>
-
+[![](https://github-readme-stats.vercel.app/api?username=Mark-soni&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mark-soni)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Mark-soni)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-soni&langs_count=8&theme=algolia&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-soni&langs_count=8&theme=algolia&layout=compact" alt="Top Langs"/>
 </div>
 
 
@@ -47,4 +33,3 @@ To contact me, you can email me at: marcelo.mvp2002@gmail.com.
 	<a href="https://www.linkedin.com/in/marcelo-vivanco-2205b8223/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/marcekfskfs/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
-
