@@ -1,3 +1,4 @@
+<img src="https://cdn.discordapp.com/attachments/852763742100783104/1306496079914860575/image.png?ex=6736e0ca&is=67358f4a&hm=92c25941f7560746b03c941fe354966cdfda961ff6baf1264951bac37d71d702&">
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
