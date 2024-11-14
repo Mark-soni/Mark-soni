@@ -16,13 +16,27 @@ Outside of technology, I enjoy playing video games, listening to music, and read
 
 To contact me, you can email me at: marcelo.mvp2002@gmail.com.
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<div align="left" style="display:inline-block; width:48%;">
 
-[![](https://github-readme-stats.vercel.app/api?username=Mark-soni&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mark-soni)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Mark-soni)
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-soni&langs_count=8&theme=algolia&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-soni&langs_count=8&theme=algolia&layout=compact" alt="Top Langs"/>
+  <!-- Estadísticas generales de GitHub -->
+  [![Marcelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mark-soni&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mark-soni)
+
+</div>
+
+<div align="right" style="display:inline-block; width:48%;">
+
+  <!-- Racha de contribuciones en GitHub -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Mark-soni)
+
+</div>
+
+<div align="center" style="margin-top:20px;">
+
+  <!-- Estadísticas de los lenguajes más usados -->
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-soni&langs_count=8&theme=algolia&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-soni&langs_count=8&theme=algolia&layout=compact" alt="Top Langs" width="350" />
+  </a>
+
 </div>
 
 
