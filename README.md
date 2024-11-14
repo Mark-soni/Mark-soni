@@ -4,17 +4,17 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/Mark-soni">Marcelo Vivanco<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/01-black-cat_800x600_v1.gif" />
 
-<img src="https://images.squarespace-cdn.com/content/v1/5ccdb6eeb91449580563d995/1557865892965-7RSNG8NYTJ891A2W6SIM/ComputerCat_06.gif" width="100px">&nbsp;***About me***
+<img src="https://i.pinimg.com/originals/10/a5/e2/10a5e2f2779bc53e2b44466f906b4a47.gif" width="100px">&nbsp;***About me***
 
 I am a Computer Engineering student at DuocUC, currently in the final stages of my degree. I am expanding my knowledge in both front-end and back-end development. I am passionate about constantly learning, being productive, and innovative in everything I do.
 - 🌱 Currently, I am learning...
 	- Next.js
    
--✔ Ask me about anything, I am happy to help :D
+- ✔ Ask me about anything, I am happy to help :D
 
-Outside of technology, I enjoy playing video games, listening to music, and reading suspense novels.
+- Outside of technology, 🕹️I enjoy playing video games, 🎵listening to music, and 📚reading suspense novels.
 
-To contact me, you can email me at: marcelo.mvp2002@gmail.com.
+- To contact me, you can email me at: marcelo.mvp2002@gmail.com.
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
